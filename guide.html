@@ -47,16 +47,22 @@
   <div class="ad ad-m" data-slot="top-m" data-size="320x100" data-label="Mobile · top · 320×100"></div>
   <div class="ad ad-d" data-slot="top-d" data-size="728x90" data-label="Desktop · top · 728×90"></div>
 </div>
-  <h2 data-i18n="g_video" id="videoHead" hidden>Video guide</h2>
-  <div class="video" id="videoBox" hidden></div>
+  <h2 data-i18n="g_video" id="videoHead">Video guide</h2>
+  <div class="video" id="videoBox"><div><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg><span data-i18n="g_soon">Video coming soon</span></div></div>
   <script>
-    /* Put your YouTube video ID below (for example dQw4w9WgXcQ). While it is empty the video block stays hidden. */
-    var YT_ID = '';
-    if (YT_ID) {
-      var b = document.getElementById('videoBox'), hd = document.getElementById('videoHead');
-      b.innerHTML = '<iframe src="https://www.youtube-nocookie.com/embed/' + YT_ID + '" title="How to use 2fauth.online - 2FA authenticator guide" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
-      b.style.border = 'none'; b.hidden = false; hd.hidden = false;
-    }
+    /* ▼ PASTE YOUR YOUTUBE LINK between the quotes (watch, youtu.be, shorts or embed link — or just the 11-character video ID).
+       Example: var YT_LINK = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
+       While it is empty, the "Video coming soon" placeholder stays visible. */
+    var YT_LINK = '';
+    (function () {
+      var v = (YT_LINK || '').trim(), id = '';
+      if (/^[\w-]{11}$/.test(v)) id = v;
+      else { var m = v.match(/(?:youtu\.be\/|[?&]v=|\/embed\/|\/shorts\/|\/live\/)([\w-]{11})/); if (m) id = m[1]; }
+      if (!id) return;
+      var b = document.getElementById('videoBox');
+      b.innerHTML = '<iframe src="https://www.youtube-nocookie.com/embed/' + id + '?rel=0" title="How to use 2fauth.online - 2FA authenticator guide" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
+      b.style.border = 'none';
+    })();
   </script>
   <h2 data-i18n="g_steps">Step-by-step guide</h2>
   <ol class="steps">
