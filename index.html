@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>2FA Auth Online – Free 2FA Authenticator &amp; Code Generator</title>
+<meta name="description" content="Free online 2FA authenticator. Paste your secret key or scan a QR code to get your two-factor authentication code in seconds. No account or login needed.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="https://www.2fauth.online/">
+<meta name="theme-color" content="#0A0C13">
+<meta name="application-name" content="2FA Auth">
+<meta name="apple-mobile-web-app-title" content="2FA Auth">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/svg+xml" href="/assets/icons/favicon.svg">
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/icons/icon-48.png">
+<link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="2FA Auth">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="2FA Auth Online – Free 2FA Authenticator &amp; Code Generator">
+<meta property="og:description" content="Free online 2FA authenticator. Paste your secret key or scan a QR code to get your two-factor authentication code in seconds. No account or login needed.">
+<meta property="og:url" content="https://www.2fauth.online/">
+<meta property="og:image" content="https://www.2fauth.online/assets/icons/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="2FA Auth - free online 2FA authenticator">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="2FA Auth Online – Free 2FA Authenticator &amp; Code Generator">
+<meta name="twitter:description" content="Free online 2FA authenticator. Paste your secret key or scan a QR code to get your two-factor authentication code in seconds. No account or login needed.">
+<meta name="twitter:image" content="https://www.2fauth.online/assets/icons/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/site.css?v=20261008">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.2fauth.online/#organization","name":"2FA Auth","url":"https://www.2fauth.online/","logo":{"@type":"ImageObject","url":"https://www.2fauth.online/assets/icons/icon-512.png","width":512,"height":512},"email":"support@2fauth.online","sameAs":["https://github.com/abdullah-gold/2Fa_AuthentictorApp"]},{"@type":"WebSite","@id":"https://www.2fauth.online/#website","name":"2FA Auth","alternateName":["2FA Auth Online","2FA Authenticator"],"url":"https://www.2fauth.online/","inLanguage":"en","publisher":{"@id":"https://www.2fauth.online/#organization"}},{"@type":"WebApplication","name":"2FA Auth Online","url":"https://www.2fauth.online/","description":"Free online 2FA authenticator that generates 6-digit TOTP verification codes from a secret key or QR code, in the browser, without an account.","applicationCategory":"SecurityApplication","operatingSystem":"Any (modern web browser)","browserRequirements":"Requires JavaScript and the Web Crypto API","isAccessibleForFree":true,"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@id":"https://www.2fauth.online/#organization"},"inLanguage":"en"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is a 2FA code and a secret key?","acceptedAnswer":{"@type":"Answer","text":"A 2FA code is a one-time 6-digit password that changes every 30 seconds. It is calculated from a Base32 secret key that a service gives you when you enable two-factor authentication. See what a 2FA key is for the details."}},{"@type":"Question","name":"Is it safe to enter my key here?","acceptedAnswer":{"@type":"Answer","text":"Codes are calculated in your browser, and the site's code does not transmit your key. Still, an online tool can never be as isolated as a dedicated app on a locked phone, so use it only on a device you trust, never on a shared computer. Read the security and privacy details."}},{"@type":"Question","name":"How is this different from an authenticator app?","acceptedAnswer":{"@type":"Answer","text":"The algorithm is the same (TOTP), so the codes match. There is nothing to install here, but the page does not keep your key between visits, so you are responsible for storing it."}},{"@type":"Question","name":"Why is my code rejected?","acceptedAnswer":{"@type":"Answer","text":"Check the key and your device clock: a drift of more than 30 seconds produces wrong codes. Make sure the key was copied completely and that you enter the current code before it expires. The troubleshooting steps cover more cases."}},{"@type":"Question","name":"Do I need an account or login to use 2FA Auth?","acceptedAnswer":{"@type":"Answer","text":"No. The site has no accounts or login. You paste a key or scan a QR code, get your code and close the tab. Because nothing is saved for you, keep your secret key somewhere safe, such as a password manager."}},{"@type":"Question","name":"What is a 2FA authenticator?","acceptedAnswer":{"@type":"Answer","text":"A 2FA authenticator is an app or tool that generates the one-time verification codes used in two-factor authentication. Instead of waiting for a text message you read a fresh code from the authenticator and type it in after your password. 2FA Auth does this in your browser. More in what is 2FA."}},{"@type":"Question","name":"What is the difference between an online 2FA authenticator and an authenticator app?","acceptedAnswer":{"@type":"Answer","text":"Both produce the same TOTP codes. An app stores your keys on your phone. An online authenticator runs in a browser tab: nothing to install and handy on a computer or a new device, but it does not save your keys, and a web page is more exposed to browser extensions and shared computers. Many people use an app for daily sign-ins and an online tool for quick checks or recovery."}},{"@type":"Question","name":"Which codes does 2FA Auth support?","acceptedAnswer":{"@type":"Answer","text":"Standard 6-digit, 30-second TOTP codes using SHA-1, which is what most websites and authenticator apps use. If a service uses other settings, such as 8 digits or SHA-256, the tool tells you it is not supported. See what is TOTP."}},{"@type":"Question","name":"Does 2FA Auth work with hardware security keys?","acceptedAnswer":{"@type":"Answer","text":"No. Hardware security keys (FIDO2/WebAuthn, usually USB or NFC) are a different method. 2FA Auth generates time-based codes from a secret key. The 2FA key explainer shows how the two differ."}}]}</script>
+</head>
+<body data-page="home">
+<a class="skip" href="#main">Skip to main content</a>
+<div id="hdr"><header class="top"><div class="container"><a class="logo" href="/"><i><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2a4 4 0 0 0-4 4v2H7a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-9a2 2 0 0 0-2-2h-1V6a4 4 0 0 0-4-4z"/><line x1="12" y1="14" x2="12" y2="17"/></svg></i>2FA Auth</a><nav aria-label="Main"><a href="/#tools">Generator</a><a href="/guide">How to use</a><a href="/what-is-2fa">What is 2FA?</a><a href="/2fa-key">2FA key</a><a href="/security">Security</a></nav><select id="lang" aria-label="Language"><option value="ru">Русский</option><option value="en" selected>English</option><option value="es">Español</option><option value="fr">Français</option><option value="ar">العربية</option></select></div></header></div>
+<main id="main">
+<div class="container ads-wrap ads-top">
+  <div class="ad ad-m" data-slot="top-m" data-size="320x100" data-label="Mobile · top · 320×100"></div>
+  <div class="ad ad-d" data-slot="top-d" data-size="728x90" data-label="Desktop · top · 728×90"></div>
+</div>
+<section id="home" style="padding-top:0"><div class="container hero">
+  <h1 data-i18n="h1">2FA Authenticator &ndash; Free Online Two Factor Authentication</h1>
+  <p data-i18n="sub">2FA Auth is a free online 2FA authenticator. Paste the secret key &ndash; or scan the QR code &ndash; that a website gives you when you turn on two-factor authentication, and get the same 6-digit 2FA code your authenticator app would show. It runs in your browser, with no account or login.</p>
+  <p class="hero-links" data-en>New to two-factor authentication? Read <a href="/what-is-2fa">what 2FA is</a> or follow the <a href="/guide">step-by-step guide</a>.</p>
+</div></section>
+<section id="tools"><div class="container">
+  <h2 data-i18n="tool_title">Online 2FA code generator</h2>
+  <div class="tool">
+  <div class="panel">
+    <div class="col col-left">
+      <div class="col-label">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a4 4 0 0 0-4 4v2H7a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-9a2 2 0 0 0-2-2h-1V6a4 4 0 0 0-4-4z"/></svg>
+        <span data-i18n="key">Secret key</span>
+      </div>
+      <div class="key-input-wrap">
+        <textarea id="secret" class="key-input" data-ph="key_ph" placeholder="e.g. GAXG 243E MR2X QZ..." spellcheck="false" autocomplete="off" aria-label="Secret key"></textarea>
+        <button class="clear-key-btn" id="clearKeyBtn" type="button" aria-label="Clear">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+        </button>
+      </div>
+      <div class="key-error" id="keyError" role="alert" aria-live="polite" hidden></div>
+      <div class="action-row">
+        <button class="btn-secondary" id="pasteBtn" type="button">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="2" width="6" height="4" rx="1"/><path d="M9 4H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2h-3"/></svg>
+          <span data-i18n="paste">Paste key</span>
+        </button>
+        <button class="btn-secondary" id="scanBtn" type="button">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7V5a2 2 0 0 1 2-2h2M17 3h2a2 2 0 0 1 2 2v2M21 17v2a2 2 0 0 1-2 2h-2M7 21H5a2 2 0 0 1-2-2v-2"/><rect x="8" y="8" width="8" height="8" rx="1"/></svg>
+          <span data-i18n="scan">Scan QR</span>
+        </button>
+      </div>
+    </div>
+    <div class="col col-right">
+      <div class="label-row">
+        <div class="col-label" style="margin-bottom:0">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M13 2 3 14h7l-1 8 11-14h-7l1-6z"/></svg>
+          <span data-i18n="token">Active code</span>
+        </div>
+        <div class="timer-pill" id="timerPill"><span class="dot"></span><span id="timerNum">--</span></div>
+      </div>
+      <div class="code-row">
+        <div class="code-box"><div class="otp placeholder" id="otpDisplay">------</div></div>
+        <button class="btn-secondary refresh-pill" id="refreshBtn" type="button" aria-label="Refresh">
+          <span class="mini-ring" aria-hidden="true"></span>
+          <svg viewBox="0 0 24 24">
+            <path d="M 10.580 1.899 A 10.2 10.2 0 0 1 14.248 5.688 A 10.2 10.2 0 0 1 22.144 10.934 L 17.172 11.456 A 5.2 5.2 0 0 0 11.276 6.851 Z" fill="#29D8EA"/>
+            <path d="M 21.457 15.821 A 10.2 10.2 0 0 1 16.342 17.102 A 10.2 10.2 0 0 1 7.851 21.318 L 9.885 16.750 A 5.2 5.2 0 0 0 16.821 13.948 Z" fill="#7C5CFC"/>
+            <path d="M 3.962 18.280 A 10.2 10.2 0 0 1 5.410 13.209 A 10.2 10.2 0 0 1 6.005 3.748 L 8.944 7.793 A 5.2 5.2 0 0 0 7.902 15.201 Z" fill="#5FE8D0"/>
+          </svg>
+        </button>
+      </div>
+      <div class="seg-bar" id="segBar">
+        <div class="seg-fill"></div><div class="seg-glow"></div><div class="seg-cover" id="segCover"></div>
+        <div class="seg-ticks"></div><div class="seg-head" id="segHead"></div>
+      </div>
+      <button class="btn-primary" id="copyBtn" type="button" disabled>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+        <span data-i18n="copy">Copy code</span>
+      </button>
+    </div>
+  </div>
+  </div>
+<p class="tool-note" data-en>Your 2FA code is calculated locally in your browser with the Web Crypto API. Use this tool only on a device you trust and keep your own copy of the secret key &ndash; it is not saved here. <a href="/security">How the site handles your key</a>.</p></div></section>
+<div class="container ads-wrap">
+  <div class="ad ad-m" data-slot="mid-m" data-size="300x250" data-label="Mobile · mid · 300×250"></div>
+  <div class="ad ad-d" data-slot="mid-d" data-size="728x90" data-label="Desktop · mid · 728×90"></div>
+</div>
+<section id="how-it-works" data-en><div class="container">
+  <h2>How the online 2FA authenticator works</h2>
+  <ol class="steps">
+    <li><h3>Get your secret key</h3><p>When you turn on two-factor authentication for an account, choose &ldquo;Authenticator app&rdquo;. The service shows a QR code and a text setup key &ndash; your 2FA secret key.</p></li>
+    <li><h3>Add it to 2FA Auth</h3><p>Paste the key or an <code>otpauth://</code> link into the field above, or press &ldquo;Scan QR&rdquo; and show the QR code to your camera.</p></li>
+    <li><h3>Enter the 2FA code</h3><p>A 6-digit code appears and refreshes every 30 seconds. Copy it, type it into the website, and you are verified.</p></li>
+  </ol>
+</div></section>
+<section id="features"><div class="container">
+  <h2 data-i18n="f_title">Why use 2FA Auth Online</h2>
+  <div class="grid">
+    <article class="card" data-pair="f1"><h3>Runs in your browser</h3><p>Codes are calculated locally with the Web Crypto API. The site&rsquo;s code does not send your secret key anywhere.</p></article>
+    <article class="card" data-pair="f2"><h3>QR scanning</h3><p>Point your camera at a QR code or paste an otpauth:// link &ndash; the key is extracted automatically.</p></article>
+    <article class="card" data-pair="f3"><h3>Standard TOTP codes</h3><p>Uses the same open TOTP standard (RFC 6238) as authenticator apps: 6 digits, refreshed every 30 seconds, so the codes match.</p></article>
+    <article class="card" data-pair="f4"><h3>One-click copy</h3><p>One tap puts the code on your clipboard. The refresh button shows the next code instantly.</p></article>
+    <article class="card" data-en><h3>No account or login</h3><p>There is nothing to sign up for. Open the page, get your code and close the tab.</p></article>
+    <article class="card" data-en><h3>Free, nothing to install</h3><p>Works in a modern desktop or mobile browser, which is useful on a new device or when your phone is not at hand.</p></article>
+  </div>
+</div></section>
+<section id="privacy" data-en><div class="container">
+  <h2>Privacy: no account, no stored keys</h2>
+  <p class="sec-text">2FA Auth is built to keep things minimal. The site has no login or user accounts, and no database of authenticator data. Your secret key and codes exist only in the open page: reload or close it and they are gone. The only thing the site stores in your browser is your language choice.</p>
+  <p class="sec-text">Some third-party resources do load &ndash; fonts from Google Fonts, a QR-decoding library from a CDN when you scan, and Google AdSense if ads are switched on &ndash; and your hosting provider may keep standard server logs. We list all of this in the <a href="/security">security and privacy overview</a> and the <a href="/privacy-policy">privacy policy</a>.</p>
+</div></section>
+<section id="security-tips" data-en><div class="container">
+  <h2>Using an online 2FA authenticator safely</h2>
+  <ul class="ticks">
+    <li><strong>Use a device you trust.</strong> Avoid public or shared computers.</li>
+    <li><strong>Keep your own copy of the key.</strong> We cannot restore it for you; a password manager works well.</li>
+    <li><strong>Save your backup codes</strong> offline so you can recover an account if you lose access.</li>
+    <li><strong>Use stronger methods for critical accounts.</strong> Where a hardware security key or passkey is offered, enable it too.</li>
+    <li><strong>Never share a code.</strong> Real support teams do not ask for your verification code.</li>
+  </ul>
+</div></section>
+<section id="setup" data-en><div class="container">
+  <h2>How to set up 2FA on an account</h2>
+  <p class="sec-text">The menu names differ, but the path is almost always the same:</p>
+  <ol class="plain">
+    <li>Open the account&rsquo;s <em>Security</em> settings and find &ldquo;Two-factor authentication&rdquo; or &ldquo;Two-step verification&rdquo;.</li>
+    <li>Choose &ldquo;Authenticator app&rdquo; and copy the setup key (or scan the QR code with 2FA Auth above).</li>
+    <li>Type the 6-digit code to confirm that it works.</li>
+    <li>Save the backup codes and store your secret key safely.</li>
+  </ol>
+  <p class="sec-text">Want screenshots-free detail and troubleshooting? Read the <a href="/guide">full guide to using a 2FA authenticator</a>.</p>
+</div></section>
+<section id="faq"><div class="container">
+  <h2 data-i18n="faq_title">Frequently asked questions</h2>
+  <details data-pair="q1"><summary>What is a 2FA code and a secret key?</summary><p>A 2FA code is a one-time 6-digit password that changes every 30 seconds. It is calculated from a Base32 secret key that a service gives you when you enable two-factor authentication. See <a href="/2fa-key">what a 2FA key is</a> for the details.</p></details>
+  <details data-pair="q2"><summary>Is it safe to enter my key here?</summary><p>Codes are calculated in your browser, and the site's code does not transmit your key. Still, an online tool can never be as isolated as a dedicated app on a locked phone, so use it only on a device you trust, never on a shared computer. Read the <a href="/security">security and privacy details</a>.</p></details>
+  <details data-pair="q3"><summary>How is this different from an authenticator app?</summary><p>The algorithm is the same (TOTP), so the codes match. There is nothing to install here, but the page does not keep your key between visits, so you are responsible for storing it.</p></details>
+  <details data-pair="q4"><summary>Why is my code rejected?</summary><p>Check the key and your device clock: a drift of more than 30 seconds produces wrong codes. Make sure the key was copied completely and that you enter the current code before it expires. The <a href="/guide">troubleshooting steps</a> cover more cases.</p></details>
+  <details data-faq data-en><summary>Do I need an account or login to use 2FA Auth?</summary><p>No. The site has no accounts or login. You paste a key or scan a QR code, get your code and close the tab. Because nothing is saved for you, keep your secret key somewhere safe, such as a password manager.</p></details>
+  <details data-faq data-en><summary>What is a 2FA authenticator?</summary><p>A 2FA authenticator is an app or tool that generates the one-time verification codes used in two-factor authentication. Instead of waiting for a text message you read a fresh code from the authenticator and type it in after your password. 2FA Auth does this in your browser. More in <a href="/what-is-2fa">what is 2FA</a>.</p></details>
+  <details data-faq data-en><summary>What is the difference between an online 2FA authenticator and an authenticator app?</summary><p>Both produce the same TOTP codes. An app stores your keys on your phone. An online authenticator runs in a browser tab: nothing to install and handy on a computer or a new device, but it does not save your keys, and a web page is more exposed to browser extensions and shared computers. Many people use an app for daily sign-ins and an online tool for quick checks or recovery.</p></details>
+  <details data-faq data-en><summary>Which codes does 2FA Auth support?</summary><p>Standard 6-digit, 30-second TOTP codes using SHA-1, which is what most websites and authenticator apps use. If a service uses other settings, such as 8 digits or SHA-256, the tool tells you it is not supported. See <a href="/what-is-totp">what is TOTP</a>.</p></details>
+  <details data-faq data-en><summary>Does 2FA Auth work with hardware security keys?</summary><p>No. Hardware security keys (FIDO2/WebAuthn, usually USB or NFC) are a different method. 2FA Auth generates time-based codes from a secret key. The <a href="/2fa-key">2FA key explainer</a> shows how the two differ.</p></details>
+</div></section>
+<section id="learn" data-en><div class="container">
+  <h2>Learn more about 2FA</h2>
+  <div class="grid">
+    <a class="card rel" href="/what-is-2fa"><h3>What is 2FA?</h3><p>Two-factor authentication explained, with the main types compared.</p></a>
+    <a class="card rel" href="/2fa-key"><h3>What is a 2FA key?</h3><p>Secret setup key, security key or backup code &ndash; what each one is.</p></a>
+    <a class="card rel" href="/what-is-totp"><h3>What is TOTP?</h3><p>How a secret and the clock become a 6-digit code.</p></a>
+    <a class="card rel" href="/guide"><h3>How to use it</h3><p>Step-by-step guide with troubleshooting.</p></a>
+    <a class="card rel" href="/2fa-secret-key-to-code"><h3>Secret key to 2FA code</h3><p>Which accounts it works with, what it supports and how to fix rejected codes.</p></a>
+  </div>
+  <aside class="cta-box"><div><strong>Ready to generate your 2FA code?</strong><span>Free, online and no account needed.</span></div><a class="btn" href="#tools">Open the generator</a></aside>
+</div></section>
+</main>
+<div class="container ads-wrap">
+  <div class="ad ad-m" data-slot="bottom-m" data-size="300x250" data-label="Mobile · bottom · 300×250"></div>
+  <div class="ad ad-d" data-slot="bottom-d" data-size="728x90" data-label="Desktop · bottom · 728×90"></div>
+</div>
+<div class="scan-overlay tool" id="scanOverlay">
+  <div class="scan-card">
+    <div class="scan-frame" id="scanFrame"><video id="scanVideo" playsinline muted></video><i class="c tl"></i><i class="c tr"></i><i class="c bl"></i><i class="c br"></i><div class="scan-line"></div></div>
+    <div class="scan-status" id="scanStatus"></div>
+    <div class="scan-error" id="scanError" hidden>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3l18 18"/><path d="M10.6 5H14l1.5 2H19a2 2 0 0 1 2 2v7.5M17 17.7A2 2 0 0 1 16 18H5a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2h1.5"/><path d="M9.9 9.9a3 3 0 0 0 4.2 4.2"/></svg>
+      <h3 id="scanErrTitle"></h3><p id="scanErrText"></p><p class="hint" id="scanErrHint" hidden></p>
+      <button class="btn-retry" id="scanRetry" type="button" data-i18n="c_retry">Try again</button>
+    </div>
+    <button class="scan-close" id="scanClose" type="button" data-i18n="cancel">Cancel</button>
+  </div>
+</div>
+<canvas id="scanCanvas" style="display:none"></canvas>
+<div class="toast" id="toast"></div>
+<canvas id="scanCanvas" style="display:none"></canvas>
+<div id="ftr"><footer class="bot"><div class="container"><nav class="flinks" aria-label="Footer"><a href="/guide">How to use</a><a href="/what-is-2fa">What is 2FA?</a><a href="/2fa-key">2FA key</a><a href="/what-is-totp">What is TOTP?</a><a href="/2fa-secret-key-to-code">Secret key to code</a><a href="/security">Security</a><a href="/about">About us</a><a href="/contact">Contact us</a><a href="/privacy-policy">Privacy policy</a><a href="/disclaimer">Disclaimer</a><a href="/terms">Terms and conditions</a></nav><div class="copy">&copy; 2026 2FA Auth &middot; <a href="mailto:support@2fauth.online">support@2fauth.online</a> &middot; <a href="https://github.com/abdullah-gold/2Fa_AuthentictorApp" rel="noopener">GitHub</a> &middot; All rights reserved.</div></div></footer></div>
+<aside class="ad ad-side ad-left" data-slot="left-d" data-size="160x600" data-label="Desktop · left sidebar · 160×600" aria-hidden="true"></aside>
+<aside class="ad ad-side ad-right" data-slot="right-d" data-size="160x600" data-label="Desktop · right sidebar · 160×600" aria-hidden="true"></aside>
+<script src="/assets/ads.js?v=20261008" defer></script>
+<script src="/assets/i18n.js?v=20261008"></script>
+<script src="/assets/tool.js?v=20261008"></script>
+</body>
+</html>

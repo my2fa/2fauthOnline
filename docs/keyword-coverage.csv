@@ -1,0 +1,1001 @@
+﻿#,Keyword,Category,Status on /2fa-secret-key-to-code,Note
+1,2fa code generator,Core & Transactional,On page (exact phrase),
+2,online 2fa code generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+3,free 2fa code generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+4,2fa generator online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+5,2fa code generator online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+6,totp generator,Core & Transactional,On page (exact phrase),
+7,online totp generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+8,free totp generator,Core & Transactional,On page (exact phrase),
+9,totp code generator online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+10,authenticator code generator online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+11,online authenticator,Core & Transactional,On page (exact phrase),
+12,web authenticator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+13,browser authenticator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+14,online 2fa authenticator,Core & Transactional,On page (exact phrase),
+15,free online authenticator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+16,2fa key to code,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+17,2fa secret key to code,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+18,secret key to 2fa code,Core & Transactional,On page (exact phrase),
+19,secret key to totp code,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+20,2fa secret key generator,Core & Transactional,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+21,generate 2fa code from secret key,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+22,generate totp from secret key,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+23,generate otp from secret key,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+24,6 digit 2fa code generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+25,6 digit totp generator,Core & Transactional,On page (exact phrase),
+26,six digit authenticator code generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+27,instant 2fa code generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+28,instant totp generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+29,instant authenticator code,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+30,real time 2fa code generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+31,live 2fa code generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+32,live totp generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+33,live authenticator code generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+34,2fa code online,Core & Transactional,On page (exact phrase),
+35,totp code online,Core & Transactional,On page (exact phrase),
+36,authenticator code online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+37,2fa otp generator online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+38,otp generator from secret key,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+39,otp code from secret key online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+40,2fa otp generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+41,free 2fa authenticator online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+42,free online 2fa generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+43,free online totp generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+44,free browser 2fa generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+45,free web based authenticator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+46,2fa authentication code generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+47,two factor authentication code generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+48,two factor code generator online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+49,two factor authenticator online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+50,2 factor authentication generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+51,2fa verification code generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+52,authentication code generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+53,authentication otp generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+54,verification code generator 2fa,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+55,security code generator online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+56,2fa token generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+57,totp token generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+58,authentication token generator online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+59,time based otp generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+60,time based one time password generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+61,online time based otp generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+62,free time based otp generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+63,TOTP authenticator online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+64,online TOTP authenticator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+65,free TOTP authenticator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+66,TOTP authentication code,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+67,TOTP verification code generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+68,TOTP token online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+69,TOTP generator from key,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+70,TOTP from secret,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+71,TOTP secret key generator online,Core & Transactional,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+72,secret TOTP key generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+73,2fa secret converter,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+74,2fa key converter,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+75,secret key converter to otp,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+76,secret key converter to code,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+77,2fa key converter online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+78,TOTP key converter online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+79,2fa code converter,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+80,TOTP code converter,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+81,secret key to OTP converter,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+82,secret key to TOTP converter,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+83,2fa secret key converter online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+84,online TOTP key converter,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+85,online 2fa key converter,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+86,2fa generator without app,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+87,2fa generator without phone,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+88,2fa generator without authenticator app,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+89,TOTP generator without app,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+90,authenticator without phone,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+91,authenticator without app,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+92,browser based TOTP generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+93,browser based 2fa generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+94,browser based authenticator code,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+95,web based TOTP generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+96,web based 2fa generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+97,web based authenticator code,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+98,online OTP authenticator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+99,online one time password generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+100,free OTP authenticator online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+101,2fa code generator free online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+102,free TOTP code online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+103,free authenticator code online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+104,instant authentication code generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+105,instant OTP generator online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+106,instant TOTP code online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+107,quick 2fa code generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+108,fast 2fa code generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+109,fast TOTP generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+110,fast authenticator online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+111,simple 2fa code generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+112,simple TOTP generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+113,easy 2fa generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+114,easy TOTP generator online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+115,2fa generator web app,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+116,TOTP generator web app,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+117,online 2fa tool,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+118,online TOTP tool,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+119,free 2fa tool online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+120,free TOTP tool online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+121,2fa utility online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+122,TOTP utility online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+123,online authentication tool,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+124,online authenticator tool,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+125,2fa helper online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+126,TOTP helper online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+127,generate verification code online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+128,generate authentication code online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+129,generate security code online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+130,generate one time password online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+131,generate OTP online from key,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+132,generate TOTP online from key,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+133,create TOTP code online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+134,create 2fa code online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+135,make 2fa code from secret,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+136,make TOTP code from secret,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+137,turn secret key into 2fa code,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+138,turn secret into TOTP,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+139,secret key OTP generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+140,secret key authenticator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+141,2fa secret authenticator online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+142,TOTP secret authenticator online,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+143,2fa code generator no download,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+144,TOTP generator no download,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+145,online authenticator no download,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+146,2fa generator no installation,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+147,TOTP generator no installation,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+148,authenticator no installation,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+149,online 6 digit OTP generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+150,online 6 digit TOTP generator,Core & Transactional,Not verbatim,"Primary target is the homepage (/), not repeated here to avoid cannibalisation"
+151,Facebook 2FA code generator,Facebook,On page (exact phrase),
+152,Facebook 2FA code online,Facebook,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+153,Facebook authenticator code generator,Facebook,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+154,Facebook TOTP generator,Facebook,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+155,Facebook 2FA secret key to code,Facebook,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+156,Facebook secret key to OTP,Facebook,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+157,Facebook authentication code online,Facebook,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+158,Facebook security code generator,Facebook,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+159,Facebook OTP generator online,Facebook,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+160,Facebook authenticator online,Facebook,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+161,Instagram 2FA code generator,Instagram,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+162,Instagram 2FA code online,Instagram,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+163,Instagram authenticator code generator,Instagram,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+164,Instagram TOTP generator,Instagram,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+165,Instagram 2FA secret key to code,Instagram,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+166,Instagram secret key to OTP,Instagram,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+167,Instagram authentication code online,Instagram,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+168,Instagram security code generator,Instagram,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+169,Instagram OTP generator online,Instagram,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+170,Instagram authenticator online,Instagram,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+171,WhatsApp 2FA code generator,WhatsApp,Addressed (honestly),Page explains this service does not use standard authenticator codes
+172,WhatsApp 2FA code online,WhatsApp,Addressed (honestly),Page explains this service does not use standard authenticator codes
+173,WhatsApp authenticator code generator,WhatsApp,Addressed (honestly),Page explains this service does not use standard authenticator codes
+174,WhatsApp TOTP generator,WhatsApp,Addressed (honestly),Page explains this service does not use standard authenticator codes
+175,WhatsApp 2FA secret key to code,WhatsApp,Addressed (honestly),Page explains this service does not use standard authenticator codes
+176,WhatsApp secret key to OTP,WhatsApp,Addressed (honestly),Page explains this service does not use standard authenticator codes
+177,WhatsApp authentication code online,WhatsApp,Addressed (honestly),Page explains this service does not use standard authenticator codes
+178,WhatsApp security code generator,WhatsApp,Addressed (honestly),Page explains this service does not use standard authenticator codes
+179,WhatsApp OTP generator online,WhatsApp,Addressed (honestly),Page explains this service does not use standard authenticator codes
+180,WhatsApp authenticator online,WhatsApp,Addressed (honestly),Page explains this service does not use standard authenticator codes
+181,Discord 2FA code generator,Discord,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+182,Discord 2FA code online,Discord,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+183,Discord authenticator code generator,Discord,On page (exact phrase),
+184,Discord TOTP generator,Discord,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+185,Discord 2FA secret key to code,Discord,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+186,Discord secret key to OTP,Discord,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+187,Discord authentication code online,Discord,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+188,Discord security code generator,Discord,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+189,Discord OTP generator online,Discord,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+190,Discord authenticator online,Discord,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+191,X 2FA code generator,X/Twitter,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+192,X 2FA code online,X/Twitter,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+193,X authenticator code generator,X/Twitter,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+194,X TOTP generator,X/Twitter,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+195,X 2FA secret key to code,X/Twitter,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+196,X secret key to OTP,X/Twitter,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+197,X authentication code online,X/Twitter,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+198,X security code generator,X/Twitter,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+199,X OTP generator online,X/Twitter,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+200,X authenticator online,X/Twitter,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+201,LinkedIn 2FA code generator,LinkedIn,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+202,LinkedIn 2FA code online,LinkedIn,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+203,LinkedIn authenticator code generator,LinkedIn,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+204,LinkedIn TOTP generator,LinkedIn,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+205,LinkedIn 2FA secret key to code,LinkedIn,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+206,LinkedIn secret key to OTP,LinkedIn,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+207,LinkedIn authentication code online,LinkedIn,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+208,LinkedIn security code generator,LinkedIn,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+209,LinkedIn OTP generator online,LinkedIn,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+210,LinkedIn authenticator online,LinkedIn,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+211,Google 2FA code generator,Google,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+212,Google 2FA code online,Google,On page (exact phrase),
+213,Google authenticator code generator,Google,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+214,Google TOTP generator,Google,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+215,Google 2FA secret key to code,Google,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+216,Google secret key to OTP,Google,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+217,Google authentication code online,Google,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+218,Google security code generator,Google,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+219,Google OTP generator online,Google,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+220,Google authenticator online,Google,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+221,GitHub 2FA code generator,GitHub,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+222,GitHub 2FA code online,GitHub,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+223,GitHub authenticator code generator,GitHub,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+224,GitHub TOTP generator,GitHub,On page (exact phrase),
+225,GitHub 2FA secret key to code,GitHub,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+226,GitHub secret key to OTP,GitHub,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+227,GitHub authentication code online,GitHub,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+228,GitHub security code generator,GitHub,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+229,GitHub OTP generator online,GitHub,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+230,GitHub authenticator online,GitHub,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+231,Binance 2FA code generator,Binance,On page (exact phrase),
+232,Binance 2FA code online,Binance,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+233,Binance authenticator code generator,Binance,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+234,Binance TOTP generator,Binance,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+235,Binance 2FA secret key to code,Binance,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+236,Binance secret key to OTP,Binance,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+237,Binance authentication code online,Binance,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+238,Binance security code generator,Binance,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+239,Binance OTP generator online,Binance,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+240,Binance authenticator online,Binance,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+241,Coinbase 2FA code generator,Coinbase,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+242,Coinbase 2FA code online,Coinbase,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+243,Coinbase authenticator code generator,Coinbase,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+244,Coinbase TOTP generator,Coinbase,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+245,Coinbase 2FA secret key to code,Coinbase,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+246,Coinbase secret key to OTP,Coinbase,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+247,Coinbase authentication code online,Coinbase,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+248,Coinbase security code generator,Coinbase,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+249,Coinbase OTP generator online,Coinbase,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+250,Coinbase authenticator online,Coinbase,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+251,Kraken 2FA code generator,Kraken,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+252,Kraken 2FA code online,Kraken,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+253,Kraken authenticator code generator,Kraken,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+254,Kraken TOTP generator,Kraken,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+255,Kraken 2FA secret key to code,Kraken,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+256,Kraken secret key to OTP,Kraken,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+257,Kraken authentication code online,Kraken,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+258,Kraken security code generator,Kraken,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+259,Kraken OTP generator online,Kraken,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+260,Kraken authenticator online,Kraken,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+261,Bybit 2FA code generator,Bybit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+262,Bybit 2FA code online,Bybit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+263,Bybit authenticator code generator,Bybit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+264,Bybit TOTP generator,Bybit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+265,Bybit 2FA secret key to code,Bybit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+266,Bybit secret key to OTP,Bybit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+267,Bybit authentication code online,Bybit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+268,Bybit security code generator,Bybit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+269,Bybit OTP generator online,Bybit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+270,Bybit authenticator online,Bybit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+271,OKX 2FA code generator,OKX,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+272,OKX 2FA code online,OKX,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+273,OKX authenticator code generator,OKX,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+274,OKX TOTP generator,OKX,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+275,OKX 2FA secret key to code,OKX,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+276,OKX secret key to OTP,OKX,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+277,OKX authentication code online,OKX,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+278,OKX security code generator,OKX,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+279,OKX OTP generator online,OKX,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+280,OKX authenticator online,OKX,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+281,KuCoin 2FA code generator,KuCoin,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+282,KuCoin 2FA code online,KuCoin,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+283,KuCoin authenticator code generator,KuCoin,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+284,KuCoin TOTP generator,KuCoin,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+285,KuCoin 2FA secret key to code,KuCoin,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+286,KuCoin secret key to OTP,KuCoin,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+287,KuCoin authentication code online,KuCoin,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+288,KuCoin security code generator,KuCoin,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+289,KuCoin OTP generator online,KuCoin,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+290,KuCoin authenticator online,KuCoin,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+291,Microsoft 2FA code generator,Microsoft,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+292,Microsoft 2FA code online,Microsoft,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+293,Microsoft authenticator code generator,Microsoft,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+294,Microsoft TOTP generator,Microsoft,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+295,Microsoft 2FA secret key to code,Microsoft,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+296,Microsoft secret key to OTP,Microsoft,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+297,Microsoft authentication code online,Microsoft,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+298,Microsoft security code generator,Microsoft,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+299,Microsoft OTP generator online,Microsoft,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+300,Microsoft authenticator online,Microsoft,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+301,Apple 2FA code generator,Apple,Addressed (honestly),Page explains this service does not use standard authenticator codes
+302,Apple 2FA code online,Apple,Addressed (honestly),Page explains this service does not use standard authenticator codes
+303,Apple authenticator code generator,Apple,Addressed (honestly),Page explains this service does not use standard authenticator codes
+304,Apple TOTP generator,Apple,Addressed (honestly),Page explains this service does not use standard authenticator codes
+305,Apple 2FA secret key to code,Apple,Addressed (honestly),Page explains this service does not use standard authenticator codes
+306,Apple secret key to OTP,Apple,Addressed (honestly),Page explains this service does not use standard authenticator codes
+307,Apple authentication code online,Apple,Addressed (honestly),Page explains this service does not use standard authenticator codes
+308,Apple security code generator,Apple,Addressed (honestly),Page explains this service does not use standard authenticator codes
+309,Apple OTP generator online,Apple,Addressed (honestly),Page explains this service does not use standard authenticator codes
+310,Apple authenticator online,Apple,Addressed (honestly),Page explains this service does not use standard authenticator codes
+311,Amazon 2FA code generator,Amazon,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+312,Amazon 2FA code online,Amazon,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+313,Amazon authenticator code generator,Amazon,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+314,Amazon TOTP generator,Amazon,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+315,Amazon 2FA secret key to code,Amazon,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+316,Amazon secret key to OTP,Amazon,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+317,Amazon authentication code online,Amazon,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+318,Amazon security code generator,Amazon,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+319,Amazon OTP generator online,Amazon,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+320,Amazon authenticator online,Amazon,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+321,PayPal 2FA code generator,PayPal,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+322,PayPal 2FA code online,PayPal,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+323,PayPal authenticator code generator,PayPal,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+324,PayPal TOTP generator,PayPal,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+325,PayPal 2FA secret key to code,PayPal,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+326,PayPal secret key to OTP,PayPal,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+327,PayPal authentication code online,PayPal,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+328,PayPal security code generator,PayPal,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+329,PayPal OTP generator online,PayPal,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+330,PayPal authenticator online,PayPal,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+331,Reddit 2FA code generator,Reddit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+332,Reddit 2FA code online,Reddit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+333,Reddit authenticator code generator,Reddit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+334,Reddit TOTP generator,Reddit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+335,Reddit 2FA secret key to code,Reddit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+336,Reddit secret key to OTP,Reddit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+337,Reddit authentication code online,Reddit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+338,Reddit security code generator,Reddit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+339,Reddit OTP generator online,Reddit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+340,Reddit authenticator online,Reddit,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+341,Twitch 2FA code generator,Twitch,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+342,Twitch 2FA code online,Twitch,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+343,Twitch authenticator code generator,Twitch,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+344,Twitch TOTP generator,Twitch,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+345,Twitch 2FA secret key to code,Twitch,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+346,Twitch secret key to OTP,Twitch,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+347,Twitch authentication code online,Twitch,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+348,Twitch security code generator,Twitch,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+349,Twitch OTP generator online,Twitch,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+350,Twitch authenticator online,Twitch,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+351,Steam 2FA code generator,Steam,Addressed (honestly),Page explains this service does not use standard authenticator codes
+352,Steam 2FA code online,Steam,Addressed (honestly),Page explains this service does not use standard authenticator codes
+353,Steam authenticator code generator,Steam,Addressed (honestly),Page explains this service does not use standard authenticator codes
+354,Steam TOTP generator,Steam,Addressed (honestly),Page explains this service does not use standard authenticator codes
+355,Steam 2FA secret key to code,Steam,Addressed (honestly),Page explains this service does not use standard authenticator codes
+356,Steam secret key to OTP,Steam,Addressed (honestly),Page explains this service does not use standard authenticator codes
+357,Steam authentication code online,Steam,Addressed (honestly),Page explains this service does not use standard authenticator codes
+358,Steam security code generator,Steam,Addressed (honestly),Page explains this service does not use standard authenticator codes
+359,Steam OTP generator online,Steam,Addressed (honestly),Page explains this service does not use standard authenticator codes
+360,Steam authenticator online,Steam,Addressed (honestly),Page explains this service does not use standard authenticator codes
+361,Epic Games 2FA code generator,Epic Games,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+362,Epic Games 2FA code online,Epic Games,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+363,Epic Games authenticator code generator,Epic Games,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+364,Epic Games TOTP generator,Epic Games,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+365,Epic Games 2FA secret key to code,Epic Games,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+366,Epic Games secret key to OTP,Epic Games,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+367,Epic Games authentication code online,Epic Games,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+368,Epic Games security code generator,Epic Games,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+369,Epic Games OTP generator online,Epic Games,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+370,Epic Games authenticator online,Epic Games,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+371,Shopify 2FA code generator,Shopify,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+372,Shopify 2FA code online,Shopify,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+373,Shopify authenticator code generator,Shopify,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+374,Shopify TOTP generator,Shopify,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+375,Shopify 2FA secret key to code,Shopify,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+376,Shopify secret key to OTP,Shopify,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+377,Shopify authentication code online,Shopify,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+378,Shopify security code generator,Shopify,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+379,Shopify OTP generator online,Shopify,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+380,Shopify authenticator online,Shopify,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+381,Cloudflare 2FA code generator,Cloudflare,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+382,Cloudflare 2FA code online,Cloudflare,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+383,Cloudflare authenticator code generator,Cloudflare,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+384,Cloudflare TOTP generator,Cloudflare,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+385,Cloudflare 2FA secret key to code,Cloudflare,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+386,Cloudflare secret key to OTP,Cloudflare,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+387,Cloudflare authentication code online,Cloudflare,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+388,Cloudflare security code generator,Cloudflare,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+389,Cloudflare OTP generator online,Cloudflare,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+390,Cloudflare authenticator online,Cloudflare,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+391,DigitalOcean 2FA code generator,DigitalOcean,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+392,DigitalOcean 2FA code online,DigitalOcean,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+393,DigitalOcean authenticator code generator,DigitalOcean,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+394,DigitalOcean TOTP generator,DigitalOcean,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+395,DigitalOcean 2FA secret key to code,DigitalOcean,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+396,DigitalOcean secret key to OTP,DigitalOcean,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+397,DigitalOcean authentication code online,DigitalOcean,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+398,DigitalOcean security code generator,DigitalOcean,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+399,DigitalOcean OTP generator online,DigitalOcean,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+400,DigitalOcean authenticator online,DigitalOcean,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+401,2fa-live.com alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+402,2fa-live.com alternative online,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+403,2fa-live.com web alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+404,2fa-live.com browser alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+405,2fa-live.com online authenticator,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+406,2fa-live.com TOTP generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+407,2fa-live.com 2FA generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+408,free 2fa-live.com alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+409,2fa-live.com without app,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+410,2fa-live.com without phone,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+411,2fa-live.com web version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+412,2fa-live.com online version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+413,2fa-live.com replacement,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+414,2fa-live.com similar tool,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+415,2fa-live.com competitor,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+416,2fa.live alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+417,2fa.live alternative online,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+418,2fa.live web alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+419,2fa.live browser alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+420,2fa.live online authenticator,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+421,2fa.live TOTP generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+422,2fa.live 2FA generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+423,free 2fa.live alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+424,2fa.live without app,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+425,2fa.live without phone,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+426,2fa.live web version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+427,2fa.live online version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+428,2fa.live replacement,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+429,2fa.live similar tool,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+430,2fa.live competitor,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+431,2facter.com alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+432,2facter.com alternative online,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+433,2facter.com web alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+434,2facter.com browser alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+435,2facter.com online authenticator,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+436,2facter.com TOTP generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+437,2facter.com 2FA generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+438,free 2facter.com alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+439,2facter.com without app,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+440,2facter.com without phone,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+441,2facter.com web version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+442,2facter.com online version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+443,2facter.com replacement,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+444,2facter.com similar tool,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+445,2facter.com competitor,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+446,2fas.com alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+447,2fas.com alternative online,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+448,2fas.com web alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+449,2fas.com browser alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+450,2fas.com online authenticator,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+451,2fas.com TOTP generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+452,2fas.com 2FA generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+453,free 2fas.com alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+454,2fas.com without app,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+455,2fas.com without phone,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+456,2fas.com web version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+457,2fas.com online version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+458,2fas.com replacement,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+459,2fas.com similar tool,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+460,2fas.com competitor,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+461,Google Authenticator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+462,Google Authenticator alternative online,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+463,Google Authenticator web alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+464,Google Authenticator browser alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+465,Google Authenticator online authenticator,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+466,Google Authenticator TOTP generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+467,Google Authenticator 2FA generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+468,free Google Authenticator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+469,Google Authenticator without app,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+470,Google Authenticator without phone,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+471,Google Authenticator web version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+472,Google Authenticator online version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+473,Google Authenticator replacement,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+474,Google Authenticator similar tool,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+475,Google Authenticator competitor,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+476,Authy alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+477,Authy alternative online,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+478,Authy web alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+479,Authy browser alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+480,Authy online authenticator,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+481,Authy TOTP generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+482,Authy 2FA generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+483,free Authy alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+484,Authy without app,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+485,Authy without phone,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+486,Authy web version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+487,Authy online version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+488,Authy replacement,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+489,Authy similar tool,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+490,Authy competitor,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+491,Microsoft Authenticator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+492,Microsoft Authenticator alternative online,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+493,Microsoft Authenticator web alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+494,Microsoft Authenticator browser alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+495,Microsoft Authenticator online authenticator,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+496,Microsoft Authenticator TOTP generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+497,Microsoft Authenticator 2FA generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+498,free Microsoft Authenticator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+499,Microsoft Authenticator without app,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+500,Microsoft Authenticator without phone,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+501,Microsoft Authenticator web version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+502,Microsoft Authenticator online version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+503,Microsoft Authenticator replacement,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+504,Microsoft Authenticator similar tool,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+505,Microsoft Authenticator competitor,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+506,FreeOTP alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+507,FreeOTP alternative online,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+508,FreeOTP web alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+509,FreeOTP browser alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+510,FreeOTP online authenticator,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+511,FreeOTP TOTP generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+512,FreeOTP 2FA generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+513,free FreeOTP alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+514,FreeOTP without app,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+515,FreeOTP without phone,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+516,FreeOTP web version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+517,FreeOTP online version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+518,FreeOTP replacement,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+519,FreeOTP similar tool,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+520,FreeOTP competitor,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+521,Aegis Authenticator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+522,Aegis Authenticator alternative online,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+523,Aegis Authenticator web alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+524,Aegis Authenticator browser alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+525,Aegis Authenticator online authenticator,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+526,Aegis Authenticator TOTP generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+527,Aegis Authenticator 2FA generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+528,free Aegis Authenticator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+529,Aegis Authenticator without app,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+530,Aegis Authenticator without phone,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+531,Aegis Authenticator web version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+532,Aegis Authenticator online version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+533,Aegis Authenticator replacement,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+534,Aegis Authenticator similar tool,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+535,Aegis Authenticator competitor,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+536,Authenticator.cc alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+537,Authenticator.cc alternative online,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+538,Authenticator.cc web alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+539,Authenticator.cc browser alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+540,Authenticator.cc online authenticator,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+541,Authenticator.cc TOTP generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+542,Authenticator.cc 2FA generator alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+543,free Authenticator.cc alternative,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+544,Authenticator.cc without app,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+545,Authenticator.cc without phone,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+546,Authenticator.cc web version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+547,Authenticator.cc online version,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+548,Authenticator.cc replacement,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+549,Authenticator.cc similar tool,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+550,Authenticator.cc competitor,Competitor-Based & Brand Variations,Not verbatim,Alternatives section names tools neutrally; no per-site comparison claims
+551,how to get 2fa code from secret key online,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+552,how to generate totp without phone,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+553,how to generate 2fa code without authenticator app,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+554,how to get authenticator code from secret key,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+555,how to convert 2fa secret key to code,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+556,how to convert secret key to TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+557,how to generate OTP from base32 secret,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+558,how to use a TOTP secret key online,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+559,how to generate a 6 digit TOTP code,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+560,how to generate 2fa code in browser,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+561,how to use online authenticator,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+562,how to generate 2fa code without phone number,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+563,how to get TOTP code without app,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+564,how to get 2fa code without app,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+565,how to generate authentication code from secret,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+566,how to generate verification code from secret key,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+567,how to calculate TOTP from secret key,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+568,how TOTP codes are generated from secret keys,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+569,how does a 2fa secret key work,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+570,how does TOTP authentication work,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+571,is online 2fa code generator safe,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+572,is online TOTP generator safe,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+573,is it safe to enter 2fa secret key online,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+574,can I generate TOTP in browser,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+575,can I use 2fa without authenticator app,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+576,can I generate 2fa code without phone,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+577,can secret key generate authenticator code,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+578,can I use a browser as authenticator,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+579,what is a TOTP secret key,Long-Tail & Problem-Solving,On page (exact phrase),
+580,what is a 2fa secret key,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+581,what is a base32 2fa secret,Long-Tail & Problem-Solving,On page (exact phrase),
+582,what is a TOTP code,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+583,what is an authenticator code,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+584,why is my TOTP code invalid,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+585,why is my 2fa code not working,Long-Tail & Problem-Solving,On page (exact phrase),
+586,why does authenticator code expire,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+587,why is my TOTP code changing,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+588,TOTP code clock drift fix,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+589,2fa code clock out of sync,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+590,authenticator code rejected fix,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+591,TOTP invalid code troubleshooting,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+592,TOTP time synchronization fix,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+593,2fa secret key not working,Long-Tail & Problem-Solving,On page (exact phrase),
+594,TOTP secret key not working,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+595,how to fix invalid TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+596,how to fix wrong authenticator code,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+597,how to fix 2fa code rejected,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+598,how to generate TOTP manually,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+599,how to use TOTP secret manually,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+600,how to enter secret key into authenticator,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+601,how to verify a TOTP secret key,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+602,how to test a TOTP secret key,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+603,how to check if a 2fa secret key works,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+604,how to test authenticator code online,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+605,how to test TOTP online,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+606,how to verify 2fa code online,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+607,how to create TOTP from base32,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+608,how to decode a TOTP secret,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+609,how to understand a 2fa QR code secret,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+610,how to recover TOTP secret key,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+611,how to use backup 2fa secret key,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+612,how to use authenticator secret without phone,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+613,how to access TOTP from computer,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+614,how to generate TOTP on PC,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+615,how to generate 2fa code on computer,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+616,how to generate authenticator code on desktop,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+617,how to use 2fa on a computer,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+618,how to generate 2fa codes in Chrome,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+619,how to generate TOTP in Chrome,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+620,how to generate 2fa code in browser without extension,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+621,how to get TOTP on laptop,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+622,how to get authenticator code on PC,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+623,how to use a web based authenticator,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+624,how to use an online TOTP generator,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+625,how to use a free TOTP generator,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+626,how to generate 2fa code instantly,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+627,how to generate a live TOTP code,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+628,how to generate a 6 digit authentication code,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+629,how to generate an OTP from a secret,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+630,how to convert base32 to TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+631,how to convert base32 secret to OTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+632,how to convert secret key to authenticator code,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+633,how to turn 2fa key into OTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+634,how to turn TOTP key into code,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+635,how to calculate a 6 digit OTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+636,how to calculate TOTP code manually,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+637,how to calculate HOTP vs TOTP,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+638,difference between OTP and TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+639,difference between 2fa and TOTP,Long-Tail & Problem-Solving,On page (exact phrase),
+640,difference between TOTP and authenticator,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+641,TOTP vs authenticator app,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+642,2fa secret key vs QR code,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+643,TOTP secret key vs QR code,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+644,can TOTP work without internet,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+645,does TOTP require internet,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+646,does online TOTP need internet,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+647,does authenticator code need internet,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+648,can TOTP be generated offline,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+649,why TOTP codes are 6 digits,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+650,why authenticator codes change every 30 seconds,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+651,how long is a TOTP code valid,Long-Tail & Problem-Solving,On page (exact phrase),
+652,how long does a 2fa code last,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+653,what happens when TOTP expires,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+654,how often does TOTP change,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+655,how to synchronize TOTP time,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+656,how to fix authenticator time mismatch,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+657,how to fix TOTP clock mismatch,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+658,how to fix 2fa clock drift,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+659,best way to generate TOTP online,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+660,best free online TOTP generator,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+661,best browser based authenticator,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+662,best online 2fa generator,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+663,best web TOTP tool,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+664,free alternative to authenticator app,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+665,online alternative to authenticator app,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+666,browser alternative to Google Authenticator,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+667,web alternative to Google Authenticator,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+668,authenticator app alternative online,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+669,TOTP generator for desktop browser,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+670,TOTP generator for PC,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+671,TOTP generator for laptop,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+672,TOTP generator for Chrome,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+673,TOTP generator for Firefox,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+674,TOTP generator for Edge,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+675,TOTP generator without extension,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+676,2fa generator for desktop,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+677,2fa generator for PC,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+678,2fa generator for laptop,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+679,online authenticator for PC,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+680,online authenticator for desktop,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+681,online authenticator for laptop,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+682,web authenticator for PC,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+683,web authenticator for desktop,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+684,2fa code from QR secret,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+685,2fa QR code secret to TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+686,QR code secret to authenticator code,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+687,QR code TOTP secret generator,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+688,how to get secret from TOTP QR code,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+689,how to use a QR code for TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+690,how TOTP QR codes work,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+691,what information is in a TOTP QR code,Long-Tail & Problem-Solving,On page (exact phrase),
+692,can I use TOTP secret instead of QR code,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+693,can I manually enter TOTP secret,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+694,manual TOTP setup using secret key,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+695,manual 2fa setup with secret key,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+696,2fa setup without scanning QR code,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+697,TOTP setup without scanning QR code,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+698,how to set up 2fa with a secret key,Long-Tail & Problem-Solving,On page (exact phrase),
+699,how to set up TOTP manually,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+700,how to add a TOTP account manually,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+701,how to enter authenticator secret manually,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+702,how to create an authenticator token,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+703,how to generate an authentication token,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+704,how to generate a one time password,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+705,how to generate an OTP from a TOTP key,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+706,how to generate 2fa for multiple accounts,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+707,how to manage multiple TOTP accounts,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+708,how to handle multiple 2fa codes,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+709,online tool for multiple authenticator codes,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+710,can I use one browser for multiple TOTP codes,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+711,2fa for multiple accounts online,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+712,multiple account TOTP generator,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+713,multiple account authenticator tool,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+714,safe way to use multiple 2fa accounts,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+715,TOTP for multiple business accounts,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+716,2fa for multiple business manager accounts,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+717,2fa for social media agencies,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+718,2fa for marketing agency accounts,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+719,TOTP for agency accounts,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+720,how agencies manage multiple 2fa codes,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+721,how to manage client 2fa codes,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+722,2fa for crypto accounts,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+723,TOTP for crypto trading accounts,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+724,how to generate Binance TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+725,how to generate Coinbase TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+726,how to generate Bybit TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+727,how to generate Kraken TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+728,how to generate OKX TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+729,how to generate GitHub TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+730,how to generate Facebook TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+731,how to generate Instagram TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+732,how to generate Discord TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+733,how to generate Google TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+734,how to generate Microsoft TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+735,how to generate LinkedIn TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+736,how to generate Shopify TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+737,how to generate Cloudflare TOTP,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+738,2fauth online how it works,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+739,2fauth online privacy,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+740,2fauth online security,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+741,2fauth secret key privacy,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+742,2fauth browser security,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+743,2fauth TOTP generator safe,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+744,2fauth online free,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+745,2fauth online TOTP tool,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+746,2fauth online authenticator,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+747,2fauth online secret key generator,Long-Tail & Problem-Solving,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+748,2fauth online 6 digit code,Long-Tail & Problem-Solving,Not verbatim,Topic covered on page (wording differs)
+749,open source TOTP generator web,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+750,open source 2fa generator web,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+751,open source authenticator online,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+752,browser based 2fauth,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+753,browser based authenticator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+754,client side TOTP generator,Feature & Tech Modifiers,On page (exact phrase),
+755,client side 2fa generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+756,client side authenticator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+757,privacy focused TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+758,privacy friendly 2fa generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+759,private online authenticator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+760,secure browser TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+761,secure online 2fa generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+762,secure TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+763,no server TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+764,no backend TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+765,local TOTP generator browser,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+766,local 2fa generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+767,in browser TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+768,in browser 2fa generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+769,web based authenticator app,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+770,web based TOTP authenticator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+771,web based 2fa authenticator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+772,instant browser authenticator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+773,real time browser TOTP,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+774,live browser TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+775,6 digit TOTP web tool,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+776,6 digit OTP browser tool,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+777,30 second TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+778,30 second 2fa code generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+779,base32 TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+780,base32 secret key generator,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+781,base32 2fa secret key decoder,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+782,base32 secret to TOTP,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+783,base32 to OTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+784,base32 TOTP calculator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+785,TOTP algorithm online calculator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+786,TOTP calculator online,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+787,HMAC TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+788,SHA1 TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+789,SHA256 TOTP generator,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+790,SHA512 TOTP generator,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+791,RFC 6238 TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+792,RFC 6238 online calculator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+793,RFC 6238 authenticator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+794,TOTP RFC 6238 tool,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+795,time based OTP calculator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+796,counter based OTP calculator,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+797,HOTP generator online,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+798,HOTP vs TOTP calculator,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+799,OTP URI parser,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+800,otpauth URI parser,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+801,otpauth URL generator,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+802,otpauth URI TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+803,TOTP URI generator online,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+804,TOTP provisioning URI tool,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+805,authenticator URI generator,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+806,secret key parser TOTP,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+807,TOTP secret parser,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+808,TOTP secret validator,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+809,TOTP secret key validator,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+810,2fa secret key validator,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+811,authenticator secret validator,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+812,TOTP code validator,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+813,2fa code validator,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+814,TOTP test tool,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+815,2fa test tool,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+816,authenticator test tool,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+817,online TOTP debugger,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+818,TOTP debugging tool,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+819,2fa debugging tool,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+820,TOTP troubleshooting tool,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+821,TOTP time drift calculator,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+822,TOTP timestamp calculator,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+823,TOTP remaining time calculator,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+824,TOTP countdown generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+825,live TOTP countdown,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+826,2fa countdown timer,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+827,authenticator countdown timer,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+828,TOTP refresh timer,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+829,automatic TOTP refresh,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+830,auto updating TOTP code,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+831,real time TOTP refresh,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+832,TOTP code auto refresh,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+833,live 6 digit TOTP,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+834,instant 6 digit OTP,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+835,dynamic TOTP code generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+836,dynamic 2fa code generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+837,web OTP generator with timer,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+838,TOTP generator with countdown,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+839,2fa generator with countdown,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+840,TOTP browser tool no install,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+841,2fa browser tool no install,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+842,authenticator browser tool no install,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+843,TOTP tool no extension,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+844,2fa tool no extension,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+845,authenticator without extension,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+846,TOTP without browser extension,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+847,2fa without browser extension,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+848,mobile free TOTP web app,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+849,desktop free TOTP web app,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+850,responsive TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+851,mobile friendly 2fa generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+852,responsive 2fa authenticator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+853,fast loading TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+854,lightweight TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+855,minimal TOTP web app,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+856,simple TOTP web interface,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+857,one page TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+858,instant TOTP web application,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+859,online TOTP utility,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+860,online authenticator utility,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+861,TOTP utility tool,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+862,2fa utility tool,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+863,developer TOTP tool,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+864,developer authenticator tool,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+865,TOTP testing utility,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+866,2fa testing utility,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+867,API compatible TOTP generator,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+868,TOTP development tool,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+869,authentication development tool,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+870,developer 2fa generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+871,developer OTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+872,programmer TOTP tool,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+873,TOTP code testing tool,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+874,secret key testing tool,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+875,base32 testing tool,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+876,TOTP implementation tester,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+877,TOTP implementation checker,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+878,2fa implementation checker,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+879,TOTP authentication tester,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+880,TOTP verification tester,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+881,online authenticator tester,Feature & Tech Modifiers,Not targeted,"Tool does not offer this feature, so claiming it would be misleading"
+882,TOTP code generator JavaScript,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+883,browser TOTP JavaScript,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+884,client side TOTP JavaScript,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+885,JavaScript TOTP generator online,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+886,web crypto TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+887,secure JavaScript authenticator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+888,frontend TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+889,frontend 2fa generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+890,static website TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+891,static web authenticator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+892,GitHub Pages TOTP generator,Feature & Tech Modifiers,Not verbatim,Service named in accounts table + FAQ; not repeated per service (avoids doorway-style repetition)
+893,free static TOTP tool,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+894,privacy first authenticator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+895,zero storage TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+896,no data storage TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+897,no account TOTP generator,Feature & Tech Modifiers,Not verbatim,Topic covered on page (wording differs)
+898,2facter online,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+899,2facter code generator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+900,2factor code live,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+901,2fa auth online,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+902,2fauth online,"Typos, Misspellings & Synonyms",On page (exact phrase),
+903,2fa autenticator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+904,2fa authenticator online,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+905,2fa generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+906,2fa generatorr,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+907,2fa code generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+908,2fa code genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+909,2fa code genrator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+910,2fa key to code online,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+911,2factor generator online,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+912,2 factor auth online,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+913,two factor auth online,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+914,twofactor authenticator online,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+915,two factor code genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+916,totp generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+917,totp generatorr,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+918,totp genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+919,totp code generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+920,totp code genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+921,totp autenticator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+922,totp authenticator online,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+923,totp auth online,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+924,totp code online generator,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+925,topt generator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+926,otp generater online,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+927,otp genarator online,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+928,otp authenticator online,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+929,authenticator generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+930,authenticator genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+931,authenticator code generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+932,authenticator code genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+933,authenticator online free,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+934,autenticator online,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+935,autheticator online,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+936,authentictor online,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+937,authenticator cod online,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+938,authentication code genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+939,authentication code generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+940,2fa secret key genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+941,2fa secret key generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+942,secret key to otp online,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+943,secret key to totp online,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+944,secret to otp generator,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+945,secrect key totp,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+946,secrect key 2fa,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+947,2fa secrete key,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+948,2fa secrat key,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+949,2fa code onlne,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+950,2fa code online free,"Typos, Misspellings & Synonyms",On page (exact phrase),
+951,2fa gen online,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+952,2fa online genrator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+953,online 2fa genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+954,online totp genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+955,free totp genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+956,free 2fa genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+957,web 2fa genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+958,web totp generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+959,browser totp generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+960,browser 2fa generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+961,live 2fa genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+962,live totp generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+963,instant totp generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+964,instant 2fa generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+965,6 digit totp generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+966,6 digit 2fa generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+967,2fa otp generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+968,otp code generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+969,online otp generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+970,one time password generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+971,one time pasword generator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+972,two factor authentication genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+973,two factor authenticator genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+974,2 factor authentication genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+975,2 factor auth genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+976,2fa authentication genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+977,2fa verification code genarator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+978,verification code generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+979,security code generater,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+980,auth code generater online,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+981,auth code generator online,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+982,TOTP online gen,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+983,2fa online tool,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+984,2fauth tool,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+985,2fa auth tool online,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+986,2faauth online,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+987,2fauth code generator,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+988,2fauth authenticator,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+989,2fauth totp,"Typos, Misspellings & Synonyms",Not verbatim,"Correctly spelled variant, covered by wording on page"
+990,2fa uth online,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+991,2 fa generator online,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+992,2 fa code generator,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+993,2fa code gen,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+994,totp code gen,"Typos, Misspellings & Synonyms",Not used,"Misspelling/abbreviation: Google corrects these itself, adding them is a spam signal"
+995,free online 2fa authentication tool tool,Additional Relevant Variations,Not used,"Auto-generated phrase that reads as spam (repeated ""tool"")"
+996,free online 2fa authentication tool online tool,Additional Relevant Variations,Not used,"Auto-generated phrase that reads as spam (repeated ""tool"")"
+997,free online 2fa authentication tool free tool,Additional Relevant Variations,Not used,"Auto-generated phrase that reads as spam (repeated ""tool"")"
+998,free online 2fa authentication tool web tool,Additional Relevant Variations,Not used,"Auto-generated phrase that reads as spam (repeated ""tool"")"
+999,free online 2fa authentication tool browser tool,Additional Relevant Variations,Not used,"Auto-generated phrase that reads as spam (repeated ""tool"")"
+1000,free online TOTP authentication tool tool,Additional Relevant Variations,Not used,"Auto-generated phrase that reads as spam (repeated ""tool"")"

@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Security &amp; Privacy of the 2FA Auth Online Authenticator</title>
+<meta name="description" content="How 2FA Auth handles your secret key: what happens in your browser, what is not stored, which third-party resources load and how to stay safe.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="https://www.2fauth.online/security">
+<meta name="theme-color" content="#0A0C13">
+<meta name="application-name" content="2FA Auth">
+<meta name="apple-mobile-web-app-title" content="2FA Auth">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/svg+xml" href="/assets/icons/favicon.svg">
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/icons/icon-48.png">
+<link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="2FA Auth">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Security &amp; Privacy of the 2FA Auth Online Authenticator">
+<meta property="og:description" content="How 2FA Auth handles your secret key: what happens in your browser, what is not stored, which third-party resources load and how to stay safe.">
+<meta property="og:url" content="https://www.2fauth.online/security">
+<meta property="og:image" content="https://www.2fauth.online/assets/icons/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="2FA Auth - free online 2FA authenticator">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Security &amp; Privacy of the 2FA Auth Online Authenticator">
+<meta name="twitter:description" content="How 2FA Auth handles your secret key: what happens in your browser, what is not stored, which third-party resources load and how to stay safe.">
+<meta name="twitter:image" content="https://www.2fauth.online/assets/icons/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/site.css?v=20261008">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"https://www.2fauth.online/#organization","name":"2FA Auth","url":"https://www.2fauth.online/","logo":{"@type":"ImageObject","url":"https://www.2fauth.online/assets/icons/icon-512.png","width":512,"height":512},"email":"support@2fauth.online","sameAs":["https://github.com/abdullah-gold/2Fa_AuthentictorApp"]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Security & Privacy of the 2FA Auth Online Authenticator","description":"How 2FA Auth handles your secret key: what happens in your browser, what is not stored, which third-party resources load and how to stay safe.","image":"https://www.2fauth.online/assets/icons/og-image.png","datePublished":"2026-10-08","dateModified":"2026-10-08","inLanguage":"en","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.2fauth.online/security"},"author":{"@id":"https://www.2fauth.online/#organization"},"publisher":{"@id":"https://www.2fauth.online/#organization"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.2fauth.online/"},{"@type":"ListItem","position":2,"name":"Security & privacy","item":"https://www.2fauth.online/security"}]}</script>
+</head>
+<body data-page="article">
+<a class="skip" href="#main">Skip to main content</a>
+<div id="hdr"><header class="top"><div class="container"><a class="logo" href="/"><i><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2a4 4 0 0 0-4 4v2H7a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-9a2 2 0 0 0-2-2h-1V6a4 4 0 0 0-4-4z"/><line x1="12" y1="14" x2="12" y2="17"/></svg></i>2FA Auth</a><nav aria-label="Main"><a href="/#tools">Generator</a><a href="/guide">How to use</a><a href="/what-is-2fa">What is 2FA?</a><a href="/2fa-key">2FA key</a><a href="/security">Security</a></nav><select id="lang" aria-label="Language"><option value="ru">Русский</option><option value="en" selected>English</option><option value="es">Español</option><option value="fr">Français</option><option value="ar">العربية</option></select></div></header></div>
+<main id="main" class="container article">
+<nav class="crumbs" aria-label="Breadcrumb"><a href="/">Home</a><span aria-hidden="true"> / </span><span aria-current="page">Security &amp; privacy</span></nav>
+<h1>Security &amp; Privacy of the 2FA Auth Online Authenticator</h1>
+<p class="lead">How this online 2FA authenticator treats your secret key and 2FA codes, which third-party resources are involved, and how to use any online authenticator safely.</p>
+<p class="meta">Last updated: October 8, 2026</p>
+<nav class="toc" aria-label="On this page"><strong>On this page</strong><ol><li><a href="#facts">What the site does and does not do</a></li><li><a href="#unknown">What we cannot promise</a></li><li><a href="#safely">Using it safely</a></li><li><a href="#basics">2FA security basics</a></li><li><a href="#report">Report an issue</a></li></ol></nav>
+
+<p>Privacy is the main reason people choose a simple authenticator, so this page states plainly what the site does and what it does not. Everything in the first table comes from the site&rsquo;s own source code, which is public on <a href="https://github.com/abdullah-gold/2Fa_AuthentictorApp" rel="noopener">GitHub</a>.</p>
+
+<h2 id="facts">What 2FA Auth does and does not do</h2>
+<div class="table-wrap"><table>
+<thead><tr><th>Question</th><th>Answer</th></tr></thead>
+<tbody>
+<tr><td>Where is the 2FA code calculated?</td><td>In your browser, with the Web Crypto API (HMAC-SHA-1).</td></tr>
+<tr><td>Does the page send your secret key anywhere?</td><td>The page&rsquo;s code contains no request that transmits your key or your codes.</td></tr>
+<tr><td>Is there an account, login or user database?</td><td>No. The site is a set of static pages served by a small web server.</td></tr>
+<tr><td>Is your key saved?</td><td>No. It lives only in the open page and is gone when you reload or close it. The only thing stored in your browser is your language choice.</td></tr>
+<tr><td>Does QR scanning upload the camera image?</td><td>No. Frames are decoded in your browser. Browsers without built-in QR detection load the open-source <em>jsQR</em> library from the jsDelivr CDN when you press &ldquo;Scan QR&rdquo;.</td></tr>
+<tr><td>Other third-party resources?</td><td>Fonts are loaded from Google Fonts. Google AdSense is prepared for ads and only loads if ads are switched on. See the <a href="/privacy-policy">privacy policy</a>.</td></tr>
+</tbody></table></div>
+
+<h2 id="unknown">What we cannot promise</h2>
+<ul>
+<li>Like most websites, the hosting provider may keep standard technical logs such as IP addresses and page requests. These do not include your secret key, because the key is never part of a page request.</li>
+<li>We cannot protect a device that already has malware, a hostile browser extension or a shared screen.</li>
+<li>An online tool runs in a web page and is therefore more exposed than a dedicated app on a locked phone. That trade-off is real, and the advice below exists for that reason.</li>
+</ul>
+
+<h2 id="safely">Using an online authenticator safely</h2>
+<ol>
+<li><strong>Use a device you trust.</strong> Avoid public or shared computers.</li>
+<li><strong>Check the address bar.</strong> Make sure you are on <code>2fauth.online</code> before entering a key.</li>
+<li><strong>Keep your own copy of the key.</strong> We cannot restore a key for you.</li>
+<li><strong>Keep your backup codes offline</strong> and know how to recover each important account.</li>
+<li><strong>Close the tab when you are done</strong> and clear the key field with the clear button.</li>
+<li><strong>Use stronger options for critical accounts.</strong> If a service supports hardware security keys or passkeys, enable them in addition to or instead of codes.</li>
+</ol>
+
+<h2 id="basics">2FA security basics</h2>
+<ul>
+<li>Enable 2FA on your email first &ndash; it is the key to resetting every other password.</li>
+<li>Use unique passwords. 2FA protects you if one leaks, but it is not a substitute.</li>
+<li>Never give a verification code to anyone who contacts you.</li>
+<li>Keep your device clock on automatic time so codes stay correct.</li>
+</ul>
+<p>New to the topic? Start with <a href="/what-is-2fa">what is 2FA</a> or read about <a href="/2fa-key">protecting your 2FA key</a>.</p>
+
+<h2 id="report">Reporting a security issue</h2>
+<p>If you find a vulnerability or something that contradicts this page, write to <a href="mailto:support@2fauth.online">support@2fauth.online</a>. Please include the page, your browser and steps to reproduce the problem.</p>
+
+<aside class="cta-box"><div><strong>Ready to generate a 2FA code?</strong><span>Paste your secret key or scan the QR code &ndash; free, no account or login.</span></div><a class="btn" href="/#tools">Open the online 2FA authenticator</a></aside>
+<section class="related" aria-labelledby="rel-h"><h2 id="rel-h">Keep learning</h2><div class="grid"><a class="card rel" href="/guide"><h3>How to use a 2FA authenticator</h3><p>Step-by-step: from the QR code to the 6-digit code.</p></a><a class="card rel" href="/2fa-key"><h3>What is a 2FA key?</h3><p>Secret setup key or hardware security key? Learn the difference.</p></a><a class="card rel" href="/privacy-policy"><h3>Privacy policy</h3><p>Our full privacy policy, including advertising and cookies.</p></a></div></section>
+</main>
+<div id="ftr"><footer class="bot"><div class="container"><nav class="flinks" aria-label="Footer"><a href="/guide">How to use</a><a href="/what-is-2fa">What is 2FA?</a><a href="/2fa-key">2FA key</a><a href="/what-is-totp">What is TOTP?</a><a href="/2fa-secret-key-to-code">Secret key to code</a><a href="/security">Security</a><a href="/about">About us</a><a href="/contact">Contact us</a><a href="/privacy-policy">Privacy policy</a><a href="/disclaimer">Disclaimer</a><a href="/terms">Terms and conditions</a></nav><div class="copy">&copy; 2026 2FA Auth &middot; <a href="mailto:support@2fauth.online">support@2fauth.online</a> &middot; <a href="https://github.com/abdullah-gold/2Fa_AuthentictorApp" rel="noopener">GitHub</a> &middot; All rights reserved.</div></div></footer></div>
+<script src="/assets/i18n.js?v=20261008"></script>
+</body>
+</html>
