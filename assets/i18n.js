@@ -143,6 +143,29 @@ function renderSocial(){
 }
 renderSocial();
 if(cur==='ar'){const f=document.createElement('link');f.rel='stylesheet';f.href='https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;600;700&display=swap';document.head.appendChild(f);}
+
+// ===== Extra page content per language (assets/lang/<lang>.js) =====
+window.__applyPack=function(){
+  var P=window.LANGPACK;if(!P||cur==='en')return;
+  var key=page==='home'?'home':page==='guide'?'guide':page==='404'?'p404':null;
+  if(key&&P[key]){
+    document.querySelectorAll('[data-en]').forEach(function(el,i){
+      var h=P[key][i];if(!h)return;
+      if(el.tagName==='DETAILS'){                       // keep the accordion listeners: swap text only
+        var tmp=document.createElement('div');tmp.innerHTML=h;
+        var ns=tmp.querySelector('summary'),np=tmp.querySelector('p'),os=el.querySelector('summary'),op=el.querySelector('p');
+        if(ns&&os)os.innerHTML=ns.innerHTML;if(np&&op)op.innerHTML=np.innerHTML;
+      }else el.innerHTML=h;
+      el.hidden=false;
+    });
+  }
+  if(page==='article'&&P.articles){
+    var slug=location.pathname.replace(/^\/+|\/+$|\.html$/g,''),a=P.articles[slug];
+    if(a){var mn=document.querySelector('main');if(mn){mn.innerHTML=a.html;}
+      if(a.title)document.title=a.title;var md=document.querySelector('meta[name=description]');if(md&&a.desc)md.content=a.desc;}
+  }
+};
+if(cur!=='en'){var ps=document.createElement('script');ps.src='/assets/lang/'+cur+'.js?v=20261011';ps.async=true;document.head.appendChild(ps);}
 function apply(){
   const r=document.documentElement;r.lang=cur;r.dir=cur==='ar'?'rtl':'ltr';
   document.querySelectorAll('[data-ph]').forEach(e=>e.placeholder=t(e.dataset.ph));
