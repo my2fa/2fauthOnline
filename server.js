@@ -8,7 +8,7 @@ const ROOT = __dirname;
 const PORT = process.env.PORT || 3000;
 // Canonical host: https://www.2fauth.online  (the bare domain is redirected to it)
 const BARE_HOST = '2fauth.online';
-const CANONICAL_HOST = 'www.' + BARE_HOST;
+const CANONICAL_HOST = '2fauth.online';
 
 // clean URL -> file
 const PAGES = {
@@ -111,10 +111,6 @@ http.createServer((req, res) => {
   try { p = decodeURIComponent(u.pathname); } catch (e) { return notFound(); }
   const search = u.search || '';
 
-  // bare domain (or plain http on the production host) -> https://www.<domain>
-  if (host === BARE_HOST || (host === CANONICAL_HOST && proto === 'http')) {
-    return redirect(res, 'https://' + CANONICAL_HOST + p + search);
-  }
 
   // /assets/*
   if (p.startsWith('/assets/')) {
