@@ -3,7 +3,7 @@ const LANGS={ru:'Русский',en:'English',es:'Español',fr:'Français',ar:'�
 // Docs: "Title|paragraph|paragraph"   Pairs: "Title|Text"
 const D={
 ru:{title:'2FA Auth Online',desc:'Бесплатный онлайн 2FA генератор: получите TOTP-код из секретного ключа или QR-кода. Google Authenticator онлайн, без регистрации, работает в браузере.',
-nav_home:'Главная',nav_tools:'Инструменты',nav_features:'Возможности',nav_faq:'FAQ',
+nav_gen:'Генератор',nav_security:'Безопасность',ft_security:'Безопасность',ft_what:'Что такое 2FA?',ft_key:'2FA-ключ',nav_home:'Главная',nav_tools:'Инструменты',nav_features:'Возможности',nav_faq:'FAQ',
 h1:'2FA Authenticator – бесплатная двухфакторная аутентификация онлайн',sub:'Введите секретный ключ или отсканируйте QR-код, чтобы получить 6-значный код подтверждения. Всё работает безопасно в вашем браузере — ваш секрет никогда не покидает ваше устройство.',cta:'Получить код',
 tool_title:'Генератор 2FA кодов',key:'Секретный ключ',key_ph:'Например: GAXG 243E MR2X QZ...',paste:'Вставить ключ',scan:'Скан QR',token:'Активный код',copy:'Копировать код',cancel:'Отмена',scan_hint:'Наведите камеру на QR-код',
 t_copied:'Скопировано',t_nocopy:'Не удалось скопировать',t_code:'Код скопирован: ',t_genfail:'Код создан, но не скопирован',t_invalid:'Неверный ключ',t_clip:'Нет доступа к буферу обмена',t_enter:'Сначала введите секретный ключ',t_cam:'Нет доступа к камере',t_qrbad:'Неверный ключ в QR-коде',
@@ -24,7 +24,7 @@ privacy:'Политика конфиденциальности|В 2FA Auth мы 
 disclaimer:'Отказ от ответственности|Инструмент предоставляется «как есть», без каких-либо гарантий.|Вы сами отвечаете за хранение секретных ключей и доступ к своим аккаунтам. Мы не несём ответственности за потерю доступа или ущерб от использования сервиса.',
 terms:'Условия использования|Используя сайт, вы соглашаетесь применять его только в законных целях и только для собственных аккаунтов.|Запрещено использовать сервис для доступа к чужим аккаунтам. Мы вправе изменять сайт и эти условия без предварительного уведомления.'},
 en:{title:'2FA Auth Online',desc:'Free online 2FA generator: get a TOTP code from a secret key or QR code. Google Authenticator online, no sign-up, runs in your browser.',
-nav_home:'Home',nav_tools:'Tools',nav_features:'Features',nav_faq:'FAQ',
+nav_gen:'Generator',nav_security:'Security',ft_security:'Security',ft_what:'What is 2FA?',ft_key:'2FA key',nav_home:'Home',nav_tools:'Tools',nav_features:'Features',nav_faq:'FAQ',
 h1:'2FA Authenticator – Free Online Two Factor Authentication',sub:'Enter your secret key or scan a QR code to generate a 6-digit verification code. Everything runs securely in your browser — your secret never leaves your device.',cta:'Get my code',
 tool_title:'2FA code generator',key:'Secret key',key_ph:'e.g. GAXG 243E MR2X QZ...',paste:'Paste key',scan:'Scan QR',token:'Active code',copy:'Copy code',cancel:'Cancel',scan_hint:'Point the camera at a QR code',
 t_copied:'Copied',t_nocopy:'Could not copy',t_code:'Code copied: ',t_genfail:'Generated — copy failed',t_invalid:'Invalid key',t_clip:'Clipboard permission denied',t_enter:'Enter a secret key first',t_cam:'Camera permission denied',t_qrbad:'Invalid key in QR code',
@@ -45,7 +45,7 @@ privacy:'Privacy Policy|At 2FA Auth, we take your privacy seriously. Our TOTP to
 disclaimer:'Disclaimer|The tool is provided "as is", without warranties of any kind.|You are responsible for storing your secret keys and for access to your accounts. We are not liable for loss of access or any damage from using the service.',
 terms:'Terms and conditions|By using this site you agree to use it lawfully and only for your own accounts.|Using the service to access accounts that are not yours is prohibited. We may change the site and these terms without prior notice.'},
 es:{title:'2FA Auth Online',desc:'Generador 2FA online gratuito: obtén un código TOTP desde una clave secreta o un código QR. Google Authenticator online, sin registro.',
-nav_home:'Inicio',nav_tools:'Herramientas',nav_features:'Funciones',nav_faq:'FAQ',
+nav_gen:'Generador',nav_security:'Seguridad',ft_security:'Seguridad',ft_what:'¿Qué es 2FA?',ft_key:'Clave 2FA',nav_home:'Inicio',nav_tools:'Herramientas',nav_features:'Funciones',nav_faq:'FAQ',
 h1:'2FA Authenticator – Autenticación de dos factores gratis online',sub:'Introduce tu clave secreta o escanea un código QR para generar un código de verificación de 6 dígitos. Todo funciona de forma segura en tu navegador: tu secreto nunca sale de tu dispositivo.',cta:'Obtener código',
 tool_title:'Generador de códigos 2FA',key:'Clave secreta',key_ph:'Ej.: GAXG 243E MR2X QZ...',paste:'Pegar clave',scan:'Escanear QR',token:'Código activo',copy:'Copiar código',cancel:'Cancelar',scan_hint:'Apunta la cámara a un código QR',
 t_copied:'Copiado',t_nocopy:'No se pudo copiar',t_code:'Código copiado: ',t_genfail:'Generado, pero no se copió',t_invalid:'Clave no válida',t_clip:'Permiso del portapapeles denegado',t_enter:'Introduce primero una clave',t_cam:'Permiso de cámara denegado',t_qrbad:'Clave no válida en el QR',
@@ -66,7 +66,7 @@ privacy:'Política de privacidad|En 2FA Auth nos tomamos en serio tu privacidad.
 disclaimer:'Aviso legal|La herramienta se ofrece «tal cual», sin garantías de ningún tipo.|Eres responsable de guardar tus claves secretas y del acceso a tus cuentas. No respondemos por la pérdida de acceso ni por daños derivados del uso del servicio.',
 terms:'Términos y condiciones|Al usar este sitio aceptas hacerlo de forma legal y solo con tus propias cuentas.|Está prohibido usar el servicio para acceder a cuentas ajenas. Podemos modificar el sitio y estos términos sin previo aviso.'},
 fr:{title:'2FA Auth Online',desc:'Générateur 2FA gratuit en ligne : obtenez un code TOTP à partir d\'une clé secrète ou d\'un QR code. Google Authenticator en ligne, sans inscription.',
-nav_home:'Accueil',nav_tools:'Outils',nav_features:'Fonctionnalités',nav_faq:'FAQ',
+nav_gen:'Générateur',nav_security:'Sécurité',ft_security:'Sécurité',ft_what:'Qu\'est-ce que la 2FA ?',ft_key:'Clé 2FA',nav_home:'Accueil',nav_tools:'Outils',nav_features:'Fonctionnalités',nav_faq:'FAQ',
 h1:'2FA Authenticator – Authentification à deux facteurs gratuite en ligne',sub:'Saisissez votre clé secrète ou scannez un QR code pour générer un code de vérification à 6 chiffres. Tout fonctionne en toute sécurité dans votre navigateur : votre secret ne quitte jamais votre appareil.',cta:'Obtenir mon code',
 tool_title:'Générateur de codes 2FA',key:'Clé secrète',key_ph:'Ex. : GAXG 243E MR2X QZ...',paste:'Coller la clé',scan:'Scanner QR',token:'Code actif',copy:'Copier le code',cancel:'Annuler',scan_hint:'Dirigez la caméra vers un QR code',
 t_copied:'Copié',t_nocopy:'Copie impossible',t_code:'Code copié : ',t_genfail:'Code généré, copie échouée',t_invalid:'Clé invalide',t_clip:'Accès au presse-papiers refusé',t_enter:'Saisissez d\'abord une clé',t_cam:'Accès à la caméra refusé',t_qrbad:'Clé invalide dans le QR code',
@@ -87,7 +87,7 @@ privacy:'Politique de confidentialité|Chez 2FA Auth, nous prenons votre vie pri
 disclaimer:'Avertissement|L\'outil est fourni « tel quel », sans garantie d\'aucune sorte.|Vous êtes responsable de la conservation de vos clés secrètes et de l\'accès à vos comptes. Nous déclinons toute responsabilité en cas de perte d\'accès ou de dommage lié à l\'utilisation du service.',
 terms:'Conditions d\'utilisation|En utilisant ce site, vous acceptez de l\'utiliser légalement et uniquement pour vos propres comptes.|Il est interdit d\'utiliser le service pour accéder à des comptes qui ne vous appartiennent pas. Nous pouvons modifier le site et ces conditions sans préavis.'},
 ar:{title:'2FA Auth Online',desc:'مولّد 2FA مجاني أونلاين: احصل على رمز TOTP من المفتاح السري أو رمز QR. Google Authenticator أونلاين دون تسجيل ويعمل في المتصفح.',
-nav_home:'الرئيسية',nav_tools:'الأدوات',nav_features:'المزايا',nav_faq:'الأسئلة الشائعة',
+nav_gen:'المولّد',nav_security:'الأمان',ft_security:'الأمان',ft_what:'ما هو 2FA؟',ft_key:'مفتاح 2FA',nav_home:'الرئيسية',nav_tools:'الأدوات',nav_features:'المزايا',nav_faq:'الأسئلة الشائعة',
 h1:'2FA Authenticator – المصادقة الثنائية مجاناً أونلاين',sub:'أدخل مفتاحك السري أو امسح رمز QR لتوليد رمز تحقق من 6 أرقام. كل شيء يعمل بأمان داخل متصفحك، ولا يغادر سرّك جهازك أبداً.',cta:'احصل على الرمز',
 tool_title:'مولّد رموز 2FA',key:'المفتاح السري',key_ph:'مثال: GAXG 243E MR2X QZ...',paste:'لصق المفتاح',scan:'مسح QR',token:'الرمز الحالي',copy:'نسخ الرمز',cancel:'إلغاء',scan_hint:'وجّه الكاميرا نحو رمز QR',
 t_copied:'تم النسخ',t_nocopy:'تعذّر النسخ',t_code:'تم نسخ الرمز: ',t_genfail:'تم التوليد لكن فشل النسخ',t_invalid:'مفتاح غير صالح',t_clip:'تم رفض إذن الحافظة',t_enter:'أدخل المفتاح السري أولاً',t_cam:'تم رفض إذن الكاميرا',t_qrbad:'مفتاح غير صالح في رمز QR',
@@ -117,9 +117,31 @@ const logo='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-wi
 // English is written directly into the HTML (so crawlers and no-JS visitors get the content).
 // For other languages the header/footer and the translated parts are rendered here.
 if(cur!=='en'){
-  el('hdr','<header class="top"><div class="container"><a class="logo" href="/"><i>'+logo+'</i>2FA Auth</a><nav aria-label="Main"><a href="/#home" data-i18n="nav_home"></a><a href="/#tools" data-i18n="nav_tools"></a><a href="/#features" data-i18n="nav_features"></a><a href="/#faq" data-i18n="nav_faq"></a><a href="/guide" data-i18n="nav_guide"></a></nav><select id="lang" aria-label="Language">'+Object.keys(LANGS).map(k=>'<option value="'+k+'">'+LANGS[k]+'</option>').join('')+'</select></div></header>');
-  el('ftr','<footer class="bot"><div class="container"><nav class="flinks"><a href="/guide" data-i18n="ft_guide"></a><a href="/about" data-i18n="ft_about"></a><a href="/contact" data-i18n="ft_contact"></a><a href="/privacy-policy" data-i18n="ft_privacy"></a><a href="/disclaimer" data-i18n="ft_disclaimer"></a><a href="/terms" data-i18n="ft_terms"></a></nav><div class="copy">&copy; '+new Date().getFullYear()+' 2FA Auth. <span data-i18n="rights"></span></div></div></footer>');
+  el('hdr','<header class="top"><div class="container"><a class="logo" href="/"><i>'+logo+'</i>2FA Auth</a><nav aria-label="Main"><a href="/#tools" data-i18n="nav_gen"></a><a href="/guide" data-i18n="nav_guide"></a><a href="/security" data-i18n="nav_security"></a></nav><select id="lang" aria-label="Language">'+Object.keys(LANGS).map(k=>'<option value="'+k+'">'+LANGS[k]+'</option>').join('')+'</select></div></header>');
+  el('ftr','<footer class="bot"><div class="container"><nav class="flinks"><a href="/guide" data-i18n="ft_guide"></a><a href="/what-is-2fa" data-i18n="ft_what"></a><a href="/2fa-key" data-i18n="ft_key"></a><a href="/security" data-i18n="ft_security"></a><a href="/about" data-i18n="ft_about"></a><a href="/contact" data-i18n="ft_contact"></a><a href="/privacy-policy" data-i18n="ft_privacy"></a><a href="/disclaimer" data-i18n="ft_disclaimer"></a><a href="/terms" data-i18n="ft_terms"></a></nav><div class="copy">&copy; '+new Date().getFullYear()+' 2FA Auth. <span data-i18n="rights"></span></div></div></footer>');
 }
+
+// ===== Social links: put your real profile URLs here (one place for the whole site) =====
+const SOC=[
+['Facebook','#','<path d="M13.5 21v-7.5h2.6l.4-3h-3V8.6c0-.9.3-1.5 1.5-1.5h1.6V4.4c-.3 0-1.2-.1-2.3-.1-2.3 0-3.8 1.4-3.8 3.9v2.3H7.5v3h2.7V21z"/>'],
+['Instagram','#','<path d="M7 3h10a4 4 0 0 1 4 4v10a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V7a4 4 0 0 1 4-4zm0 2a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2zm5 2.5a4.5 4.5 0 1 1 0 9 4.5 4.5 0 0 1 0-9zm0 2a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM17 6.2a1.1 1.1 0 1 1 0 2.2 1.1 1.1 0 0 1 0-2.2z"/>'],
+['Threads','#','<text x="12" y="18" text-anchor="middle" font-size="19" font-weight="700" font-family="Arial,sans-serif">@</text>'],
+['TikTok','#','<path d="M16.5 3c.3 2.3 1.7 3.8 4 4v3c-1.5 0-2.8-.5-4-1.3V15a6 6 0 1 1-6-6v3.2a2.8 2.8 0 1 0 2.8 2.8V3z"/>'],
+['Bluesky','#','<path d="M6.3 4.5C8.6 6.2 11.1 9.7 12 11.5c.9-1.8 3.4-5.3 5.7-7 1.7-1.2 4.3-2.1 4.3.8 0 .6-.3 4.8-.5 5.5-.7 2.4-3.1 3-5.3 2.7 3.8.7 4.8 2.8 2.7 5-4 4.1-5.8-1-6.2-2.3-.1-.2-.1-.3-.1-.2s0 0-.1.2c-.4 1.3-2.2 6.4-6.2 2.3-2.1-2.2-1.1-4.3 2.7-5-2.2.3-4.6-.3-5.3-2.7C2.3 10.1 2 5.9 2 5.3c0-2.9 2.6-2 4.3-.8z"/>'],
+['VK','#','<text x="12" y="16.5" text-anchor="middle" font-size="12" font-weight="800" font-family="Arial,sans-serif">VK</text>'],
+['Telegram','#','<path d="M21.5 4.2 2.8 11.4c-1.3.5-1.3 1.2-.2 1.5l4.8 1.5 1.8 5.6c.2.6.1.8.7.8.5 0 .7-.2 1-.5l2.3-2.3 4.8 3.5c.9.5 1.5.2 1.7-.8L22.8 5.7c.3-1.3-.5-1.9-1.3-1.5zM8.3 13.6l9.4-5.9c.4-.3.8-.1.5.2l-7.7 7-.3 3.2z"/>'],
+['X','#','<path d="M17.8 3h3l-6.6 7.5L22 21h-6.1l-4.8-6.2L5.6 21h-3l7-8L2 3h6.3l4.3 5.7zm-1 16.2h1.7L7.2 4.7H5.4z"/>']
+];
+function renderSocial(){
+  const box=document.querySelector('footer.bot .container');
+  if(!box||box.querySelector('.social'))return;
+  const f=document.createElement('div');f.className='follow';f.textContent=t('follow');
+  const s=document.createElement('div');s.className='social';
+  s.innerHTML=SOC.map(x=>'<a href="'+x[1]+'" target="_blank" rel="noopener me" aria-label="'+x[0]+'" title="'+x[0]+'"><svg viewBox="0 0 24 24" aria-hidden="true">'+x[2]+'</svg></a>').join('');
+  const copy=box.querySelector('.copy');
+  if(copy){box.insertBefore(f,copy);box.insertBefore(s,copy);}else{box.appendChild(f);box.appendChild(s);}
+}
+renderSocial();
 if(cur==='ar'){const f=document.createElement('link');f.rel='stylesheet';f.href='https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;600;700&display=swap';document.head.appendChild(f);}
 function apply(){
   const r=document.documentElement;r.lang=cur;r.dir=cur==='ar'?'rtl':'ltr';
